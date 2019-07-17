@@ -1,0 +1,11 @@
+C:\Krishantha\Projects\CSharp\CS_TPL_SampleApp\ConsoleTPLSampleApp\ConsoleTPLSampleApp\bin\Release\netcoreapp2.0\ConsoleTPLSampleApp.deps.json
+C:\Krishantha\Projects\CSharp\CS_TPL_SampleApp\ConsoleTPLSampleApp\ConsoleTPLSampleApp\bin\Release\netcoreapp2.0\ConsoleTPLSampleApp.runtimeconfig.json
+C:\Krishantha\Projects\CSharp\CS_TPL_SampleApp\ConsoleTPLSampleApp\ConsoleTPLSampleApp\bin\Release\netcoreapp2.0\ConsoleTPLSampleApp.runtimeconfig.dev.json
+C:\Krishantha\Projects\CSharp\CS_TPL_SampleApp\ConsoleTPLSampleApp\ConsoleTPLSampleApp\bin\Release\netcoreapp2.0\ConsoleTPLSampleApp.dll
+C:\Krishantha\Projects\CSharp\CS_TPL_SampleApp\ConsoleTPLSampleApp\ConsoleTPLSampleApp\bin\Release\netcoreapp2.0\ConsoleTPLSampleApp.pdb
+C:\Krishantha\Projects\CSharp\CS_TPL_SampleApp\ConsoleTPLSampleApp\ConsoleTPLSampleApp\obj\Release\netcoreapp2.0\ConsoleTPLSampleApp.csprojAssemblyReference.cache
+C:\Krishantha\Projects\CSharp\CS_TPL_SampleApp\ConsoleTPLSampleApp\ConsoleTPLSampleApp\obj\Release\netcoreapp2.0\ConsoleTPLSampleApp.csproj.CoreCompileInputs.cache
+C:\Krishantha\Projects\CSharp\CS_TPL_SampleApp\ConsoleTPLSampleApp\ConsoleTPLSampleApp\obj\Release\netcoreapp2.0\ConsoleTPLSampleApp.AssemblyInfoInputs.cache
+C:\Krishantha\Projects\CSharp\CS_TPL_SampleApp\ConsoleTPLSampleApp\ConsoleTPLSampleApp\obj\Release\netcoreapp2.0\ConsoleTPLSampleApp.AssemblyInfo.cs
+C:\Krishantha\Projects\CSharp\CS_TPL_SampleApp\ConsoleTPLSampleApp\ConsoleTPLSampleApp\obj\Release\netcoreapp2.0\ConsoleTPLSampleApp.dll
+C:\Krishantha\Projects\CSharp\CS_TPL_SampleApp\ConsoleTPLSampleApp\ConsoleTPLSampleApp\obj\Release\netcoreapp2.0\ConsoleTPLSampleApp.pdb
